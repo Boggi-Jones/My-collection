@@ -1,3 +1,8 @@
+# For recruiters looking at my git
+For this project the focus was to learn how to work in sprints while also using all our currently gathered knowledge. We got new requirement four times over the semester got aa few times to plan our sprint and then did the sprint.
+
+I took the lead like I tend to do in group projects, helped everyone with their things if they were stuck and then did all of the functions and most of the test.
+
 # Running the application
 activate your virtualenv
 run "pip install -r requirements.txt"

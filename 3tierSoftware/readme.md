@@ -1,6 +1,3 @@
-Gott að hafa í huga að models ætti eflaust mest eiga að heima undir business og dtos ætti mest eiga að heima undir persistence en þetta er algengt með 3-tier að hafa þetta svona flatt.
+Here the focus in this project was to make a three tier system while also setting up to be in sprints.
 
-Alembic commands: 
-
-- alembic revision --autogenerate -m "init"
-- alembic upgrade head
+I took on the job as group leader, helped everyone if they were stuck and worked mostly on logic stuff but also jumped into everything else.
